@@ -17,5 +17,3 @@ def create_train_test():
 
     write_csv('training_set', training_set)
     write_csv('test_set', test_set)
-
-create_train_test()
